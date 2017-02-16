@@ -70,5 +70,8 @@
 		"rimraf": "2.5.1",
 		"testswarm": "1.1.0"
 	},
-	"keywords": []
+	"keywords": [],
+  "browserify": {
+    "transform": "deamdify"
+  }
 }
